@@ -16,9 +16,7 @@
 title: Shijie Fang
 email: chrisfsj2051@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my homepage. I received the B.S. degree in Software Engineering from Fuzhou University, Fuzhou, China, in 2020.
-  I am currently pursuing the M.S. degree in Computer Science with the school of EECS, Peking University, Beijing, China.
-  My current research interests include machine learning and compuer vision.
+ welcome!
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,9 +56,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Shijie Fang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Welcome to my homepage. I received the B.S. degree in Software Engineering from Fuzhou University, Fuzhou, China, in 2020.
+  I am currently pursuing the M.S. degree in Computer Science with the school of EECS, Peking University, Beijing, China.
+  My current research interests include machine learning and compuer vision."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
