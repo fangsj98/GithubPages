@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Shijie Fang
+email: chrisfsj2051@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my homepage. I received the B.S. degree in Software Engineering from Fuzhou University, Fuzhou, China, in 2020.
+  I am currently pursuing the M.S. degree in Computer Science with the school of EECS, Peking University, Beijing, China.
+  My current research interests include machine learning and compuer vision.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
